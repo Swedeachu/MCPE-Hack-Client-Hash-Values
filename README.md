@@ -1,2 +1,2 @@
 # MCPE-Hack-Client-Hash-Values
-all md5 checksums for cheat clients
+Md5 checksums for cheat clients that I have gathered so far, this is only for certain cheats and not all of them of course, as that would be impossible to gather. For cheat client devs reading this, all you need to do to bypass this is make a single character somewhere in your executable/dll be changed to something random each launch to spoof the hash value and bypass this.  
